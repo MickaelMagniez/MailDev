@@ -1,5 +1,5 @@
-FROM node:6-alpine
-MAINTAINER "Dan Farrelly <daniel.j.farrelly@gmail.com>"
+FROM node:9-alpine
+MAINTAINER "Mickael Magniez <mickaelmagniez@gmail.com>"
 
 ENV NODE_ENV production
 
